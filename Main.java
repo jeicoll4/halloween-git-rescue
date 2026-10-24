@@ -5,8 +5,9 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         int i;
         String s;
-        boolean alarmaActiva = true;
-
+        boolean alarmaActiva = true, accesRestringit = true;
+        
+        System.out.println("Acces restringit: " + accesRestringit);
         System.out.println("Alarma activa: " + alarmaActiva);
         System.out.println("Quantes coses vols esriure?");
         int coses = sc.nextInt();
