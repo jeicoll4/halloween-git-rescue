@@ -5,6 +5,9 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         int i;
         String s;
+        boolean alarmaActiva = true;
+
+        System.out.println("Alarma activa: " + alarmaActiva);
         System.out.println("Quantes coses vols esriure?");
         int coses = sc.nextInt();
     for ( i= 1; i<=coses;i++){
