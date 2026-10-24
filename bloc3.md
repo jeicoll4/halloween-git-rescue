@@ -53,6 +53,7 @@ git lg
 He creat un repositori públic a GitHub anomenat
 halloween-git-rescue per publicar el projecte.
 
-Aquest pas s'ha fet des del navegador, sense ordres de terminal.
+He vinculat el repositori local amb GitHub i he publicat
+master i les dues branques de treball.
 
-![Repositori públic a GitHub](captures/image(20261024-211141).png)
+![Publicació del repositori](captures/3.15-publicacio.png)
