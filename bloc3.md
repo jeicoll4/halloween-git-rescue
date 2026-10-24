@@ -56,4 +56,4 @@ halloween-git-rescue per publicar el projecte.
 He vinculat el repositori local amb GitHub i he publicat
 master i les dues branques de treball.
 
-![Publicació del repositori](captures/3.15-publicacio.png)
+![Publicació del repositori](image(20261024-211141).png)
