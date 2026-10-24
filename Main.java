@@ -5,7 +5,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         int i;
         String s;
-        boolean alarmaActiva = true, accesRestringit = true;
+        boolean alarmaActiva = false, accesRestringit = true;
         
         System.out.println("Acces restringit: " + accesRestringit);
         System.out.println("Alarma activa: " + alarmaActiva);
